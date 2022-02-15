@@ -1,0 +1,51 @@
+*{
+    margin: opx;
+    padding: 0px;
+}
+
+.container{
+    margin-top: 35px;
+    display: flex;
+    flex-direction:row;
+}
+header{
+    
+    height: 8em;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: #1a1752;
+    color: lightskyblue;
+}
+    
+header strong{
+    font-size: 81px;
+}
+section{
+    top: 20px;
+    left: 20px;
+    width: 1080px;
+    height: 630px;
+}
+.card{
+    border: none;
+}
+.btn{
+    color:aliceblue;
+    background-color: rgb(43, 43, 66);
+}
+aside{
+    position: absolute;
+    border: 1px dotted gray;
+     top: 156px;
+    left: 67%;
+    margin-left: 2rem;
+    width: 475px;
+}
+.asvideo{
+    height: 81%;
+    width: 100%;
+}
+.d1{
+    height: 300px;
+}
